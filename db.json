@@ -2,8 +2,7 @@
 	"id": "1",
 	"name": "CHATEAU DE SAINT COSME",
 	"year": "2009",
-	"grapes": "Grenache \/ Syrah",
-	"extra": {"promo":"0.20"}
+	"grapes": "Grenache \/ Syrah"
 }, {
 	"id": "2",
 	"name": "LAN RIOJA CRIANZA",
@@ -13,8 +12,7 @@
 	"id": "3",
 	"name": "MARGERUM SYBARITE",
 	"year": "2010",
-	"grapes": "Sauvignon Blanc",
-	"extra": {"promo":"0.15"}
+	"grapes": "Sauvignon Blanc"
 }, {
 	"id": "4",
 	"name": "OWEN ROE \"EX UMBRIS\"",
@@ -29,49 +27,41 @@
 	"id": "6",
 	"name": "VITICCIO CLASSICO RISERVA",
 	"year": "2007",
-	"grapes": "Sangiovese Merlot",
-	"extra": {"bio": false, "promo":"0.20"}
+	"grapes": "Sangiovese Merlot"
 }, {
 	"id": "7",
 	"name": "CHATEAU LE DOYENNE",
 	"year": "2005",
-	"grapes": "Merlot",
-	"extra": {"bio": false, "promo":"0.20"}
+	"grapes": "Merlot"
 }, {
 	"id": "8",
 	"name": "DOMAINE DU BOUSCAT",
 	"year": "2009",
-	"grapes": "Merlot",
-	"extra": {"bio": false, "promo":"0.20"}
+	"grapes": "Merlot"
 },{
 	"id": "9",
 	"name": "BLOCK NINE",
 	"year": "2009",
-	"grapes": "Pinot Noir",
-	"extra": {"bio": false, "promo":"0.20"}
+	"grapes": "Pinot Noir"
 }, {
 	"id": "10",
 	"name": "DOMAINE SERENE",
 	"year": "2007",
-	"grapes": "Pinot Noir",
-	"extra": {"bio": false, "promo":"0.20"}
+	"grapes": "Pinot Noir"
 },{
 	"id": "11",
 	"name": "BODEGA LURTON",
 	"year": "2011",
-	"grapes": "Pinot Gris",
-	"extra": {"bio": false, "promo":"0.20"}
+	"grapes": "Pinot Gris"
 }, {
 	"id": "12",
 	"name": "LES MORIZOTTES",
 	"year": "2009",
-	"grapes": "Chardonnay",
-	"extra": {"bio": false, "promo":"0.20"}
+	"grapes": "Chardonnay"
 }, {
 	"id": "13",
 	"name": "Domaine de Montine Caprices",
 	"year": "2017",
-	"grapes": "Rhone",
-	"extra": {"bio": true, "promo":"0.2002"}
+	"grapes": "Rhone"
 }
 ]
